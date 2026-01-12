@@ -5,9 +5,9 @@ export default function EventsSlideshow() {
   // All event images except principal-photo.png
   const eventImages = [
     '/school-function.png',
-    '/IMG_6908.png',
-    '/IMG_6913.png',
-    '/IMG_6920.png',
+    '/IMG_6908.jpg',
+    '/IMG_6908.jpg',
+    '/IMG_6908.jpg',
   ]
 
   const [currentIndex, setCurrentIndex] = useState(0)
